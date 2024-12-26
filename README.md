@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neo2100
+- 👋 Hi, I’m Hadi
 - 👀 I’m interested in Microservices and Chat-bots
 - 🌱 I’m currently learning Cognitive Science
 - 💞️ I’m looking to collaborate on open source Chat-bot projects
