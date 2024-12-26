@@ -2,6 +2,7 @@
 - 👀 I’m interested in Microservices and Chat-bots
 - 🌱 I’m currently learning Cognitive Science
 - 💞️ I’m looking to collaborate on open source Chat-bot projects
+- 📝 [My Personal Blog](https://shadmehr.eu/) where I write about my experiences and thoughts
 - 📫 You can reach me on my [LinkedIn](www.linkedin.com/in/mohammad-hadi-shadmehr)
 
 <!---
