@@ -5,6 +5,9 @@
 - 📝 [My Personal Blog](https://shadmehr.eu/) where I write about my experiences and thoughts
 - 📫 You can reach me on my [LinkedIn](www.linkedin.com/in/mohammad-hadi-shadmehr)
 
+**My Open Source Projects:**
+- [https://github.com/Linguly](https://github.com/Linguly) 
+
 <!---
 neo2100/neo2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
